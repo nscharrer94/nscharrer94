@@ -1,6 +1,6 @@
 # Hi, I'm Nick 👋
 
-I'm a Data Analytics & Business Intelligence professional with a background in software development, passionate about transforming raw data into actionable insights.
+I'm a Data Analytics & Business Intelligence professional with a passion for transforming raw data into actionable insights.
 
 I enjoy designing dashboards, building data pipelines, developing analytics applications, and using programming to solve real-world business problems.
 
