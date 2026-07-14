@@ -32,12 +32,10 @@ I enjoy designing dashboards, building data pipelines, developing analytics appl
 - Python
 - Java
 - JavaScript
-- Kotlin
 
 ### Databases
 - PostgreSQL
 - BigQuery
-- Firebase
 
 ### Tools
 - Git
